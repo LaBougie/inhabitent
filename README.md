@@ -1,4 +1,4 @@
-## Project 4 - Inhabitent Site
+## Project 4 - inhabitent
 
 Inhabitent Site is a multi-page website for a Inhabitent Camping Supply Co. 
 Its objective is using WordPress as a content management system.
